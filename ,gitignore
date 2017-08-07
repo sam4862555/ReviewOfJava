@@ -1,5 +1,5 @@
 #不需要提交按的文件
-/.idea/*
+.idea/
 /out/*
 JavaTest.iml
 
