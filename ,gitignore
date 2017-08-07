@@ -1,6 +1,6 @@
 #不需要提交按的文件
-.idea/*
-out/*
+/.idea/*
+/out/*
 JavaTest.iml
 
 #常用ignore rules：
