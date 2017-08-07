@@ -6,9 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36ee246-580b-4480-9053-7c93c2685514" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/,gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaTest/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaTest/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/,gitignore" afterPath="$PROJECT_DIR$/,gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/,gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -105,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/lambda/DefaultMethod1.java" />
         <option value="$PROJECT_DIR$/src/lambda/OverrideClass.java" />
         <option value="$PROJECT_DIR$/,ignore" />
+        <option value="$PROJECT_DIR$/,gitignore" />
       </list>
     </option>
   </component>
@@ -668,7 +667,7 @@
       <workItem from="1501314465454" duration="4212000" />
       <workItem from="1502018681053" duration="3756000" />
       <workItem from="1502083738762" duration="7717000" />
-      <workItem from="1502104269865" duration="665000" />
+      <workItem from="1502104269865" duration="834000" />
     </task>
     <task id="LOCAL-00001" summary="Commit of lambda&#10;Date : 2017 - 08 - 07">
       <created>1502104402766</created>
@@ -681,7 +680,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23035000" />
+    <option name="totallyTimeSpent" value="23204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="723" y="7" width="1723" height="1056" extended-state="0" />
@@ -946,7 +945,7 @@
     <entry file="file://$PROJECT_DIR$/,gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           <folding />
         </state>
       </provider>
