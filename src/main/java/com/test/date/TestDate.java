@@ -1,5 +1,10 @@
 package com.test.date;
 
+import org.joda.time.DateTime;
+import org.joda.time.format.DateTimeFormat;
+import org.joda.time.format.DateTimeFormatter;
+
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -28,7 +33,10 @@ public class TestDate {
         }
 
         //JodaTime Version
-        
+        String timeString = "15/Apr/2017:00:00:02 +0800";
+        DateTimeFormatter format = DateTimeFormat.forPattern("d/MMM/YYYY:H:m:s Z");
+        DateTime date2 = DateTime.parse(timeString, format.withLocale(Locale.US));
+        System.out.println(date2.toString());
 
 
 
