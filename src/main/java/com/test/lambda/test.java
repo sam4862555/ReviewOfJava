@@ -1,4 +1,4 @@
-package lambda;
+package com.test.lambda;
 
 /**
  * Created by szh on 2017/8/6.

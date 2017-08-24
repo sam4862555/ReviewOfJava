@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction  扩充抽象类-->
+    <className>JPGImage</className>
+    <!--ConcreteImplementor  具体实现类-->
+    <className>WindowsImp</className>
+</config>
