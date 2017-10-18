@@ -14,7 +14,7 @@ import java.util.logging.SimpleFormatter;
 /**
  * Created by szh on 2017/8/7.
  */
-public class TestDate {
+public class JodaTimeDateAndSimpleFormatConverter {
 
     public static void main(String[] args){
 

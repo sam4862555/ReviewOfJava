@@ -1,4 +1,4 @@
-package com._180.dmp.util;
+package com.test.io;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -19,6 +19,7 @@ public class ResourceFileUtil {
 
         File file = null;
         URL url = ResourceFileUtil.class.getClassLoader().getResource(location);
+        System.out.println(url);
 
         File resourceFile = new File(url.getFile());
         if (resourceFile.exists()) {
@@ -30,7 +31,8 @@ public class ResourceFileUtil {
 
     public static void main(String[] args){
         try {
-            File file = ResourceFileUtil.getResourceFile("properties/test");
+            File file = ResourceFileUtil.getResourceFile("test/test.txt");
+            //File file = new File("/test/test");
             if( null != file ){
                 FileInputStream fileInputStream = new FileInputStream(file);
                 BufferedReader reader = new BufferedReader(new InputStreamReader(fileInputStream,"UTF-8"));

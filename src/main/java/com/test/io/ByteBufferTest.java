@@ -3,7 +3,6 @@ package com.test.io;
 
 import java.io.FileInputStream;
 import java.nio.ByteBuffer;
-import java.nio.CharBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.charset.Charset;
 

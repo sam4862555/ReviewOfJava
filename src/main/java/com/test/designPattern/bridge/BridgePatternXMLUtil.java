@@ -5,7 +5,7 @@ package com.test.designPattern.bridge;
  */
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
-import org.xml.sax.SAXException;
+
 import java.io.*;
 
 public class BridgePatternXMLUtil {
