@@ -3,7 +3,7 @@
 */.idea/
 *.iml
 /out/*
-
+README.md
 
 #常用ignore rules：
 
